@@ -17,10 +17,10 @@ A YouTube video bookmarker. The idea is to create bookmarks for watched videos a
 ![Bookmark list](Screenshots/Bookmark-list.png)
 
 #### Empty bookmark list in a video:
-![Bookmark empty list](Screenshots/Bookmark-list.png)
+![Bookmark empty list](Screenshots/no-bookmarks-found.png)
 
 #### When there are saved bookmarks and you are on the main page of YouTube, you can see the videos to which you have added bookmarks. By clicking the bookmark it takes you to the video.
 ![YouTube w bookmarks](Screenshots/youtube-page-w-bookmarks.png)
 
 #### When there are no bookmarks saved (but you are on YouTube main page):
-![YouTube w/o bookmarks](Screenshots/youtube-page-w-bookmarks.png)
+![YouTube w/o bookmarks](Screenshots/empty-bookmarks.png)
